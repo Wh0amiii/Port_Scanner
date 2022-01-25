@@ -6,7 +6,7 @@ Using guide:
 
 1. Choose [1] Scan Ports or [2] Exit
 
-2. If [1] is choosen, enter the ip's target, press enter
+2. If [1] is choosen, enter the target's ip, press enter
 
 3. Writte the port range of your scanning process, example: 20000-26000, press enter
 
